@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Titulo {
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+main section h2 {
+    display: flex;
+    padding: 18px;
+    justify-content: center;
+
+}
+
+main section form {
+display: block;
+flex-direction: row;
+
+
+}
+
+
+main .primeiro {
+    display: block;
+    margin: 15px 46%;
+    padding: 12px 0;
+}
+
+main .segundo {
+    display: block;
+    margin: 15px 46%;
+    padding: 12px 0;
+}
+
+.botao {
+    display: block;
+    margin: 15px 46%;
+    padding: 6px 0;
+    width: 170px;
+}
